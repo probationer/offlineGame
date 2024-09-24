@@ -1,0 +1,11 @@
+{
+  "name": "no-connection-game",
+  "version": "1.0.0",
+  "description": "Game which will be servered if user lossed their internet connection. Suitable for ReactJS/Native applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
